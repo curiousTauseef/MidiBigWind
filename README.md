@@ -1,4 +1,4 @@
-# MidiBigWine
+# MidiBigWind
 This is a academic project, there are three major features in thie project:
 
 1. Used to analyze the style of a midi file.
